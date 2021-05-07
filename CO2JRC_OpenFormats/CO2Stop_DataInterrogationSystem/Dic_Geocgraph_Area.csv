@@ -1,0 +1,125 @@
+OBJECTID,GeoGraph_Area,Country
+1,Onshore UK,GB
+2,Southern North Sea,GB
+3,Mid-North Sea High,GB
+4,Central/Northern North Sea,GB
+5,Irish Sea,GB
+6,English Channel,GB
+7,Záhorská nížina (lowland),SK
+8,Podunajská nížina (lowland),SK
+9,Rimavská kotlina (lowland),SK
+10,Východoslovenská nížina (lowland),SK
+11,Tatry Mts,SK
+12,Fatra Mts.,SK
+13,Slovesné rudohorie Mts.,SK
+14,Chočské vrchy (hills),SK
+15,Štiavnické vrchy (hills),SK
+16,Strážovské vrchy (hills),SK
+17,Javorníky (hills),SK
+18,Biele Karpaty (hills),SK
+19,Czech Republic,CZ
+20,Banat,RO
+21,Bucovina,RO
+22,Crisana,RO
+23,Maramures,RO
+24,Transilvania,RO
+25,Moldova,RO
+26,Muntenia,RO
+27,Oltenia,RO
+28,Dobrogea,RO
+29,Black Sea Basin,RO
+30,Upper Austria,AT
+31,Lower Austria,AT
+32,Styria,AT
+33,Vorarlberg,AT
+34,Salzburg,AT
+35,Burgenland,AT
+36,Tyrol,AT
+37,Carinthia,AT
+38,France (Continental),FR
+39,Alföld,HU
+40,Kisalföld,HU
+41,Nyugat-Magyarország,HU
+42,Dunántúli-dombság,HU
+43,Dunántúli-középhegység,HU
+44,Északi-középhegység,HU
+45,German North Sea,DE
+46,North German Plain,DE
+47,Central Uplands,DE
+48,South German Scarplands,DE
+49,Alpine Foreland,DE
+50,Padana Plain,IT
+51,Adriatic off-shore,IT
+52,Central Italy,IT
+53,Southern Italy,IT
+54,Ionian off-shore,IT
+55,Sicily,IT
+56,"Pannonian Basin of Vojvodina
+PANNONIAN BASIN OF VOJVODINA",RS
+57,Subpannonian Basin,RS
+58,Dinaric Region of Sw Serbia,RS
+59,Carpatho-Balkanides of The Eastern Serbia,RS
+60,Dakian Basin of The Eastern Serbia,RS
+61,Region of Southern Serbia,RS
+62,Kosovo and Metohija Region,RS
+63,Carpathian Mountains,PL
+64,Sudetes Mountains,PL
+65,Carpathian Foredeep,PL
+66,Upper Silesian Coal Basin,PL
+67,Polish Lowlands,PL
+68,SW Slovenia,SI
+69,Central Slovenia,SI
+70,NE Slovenia,SI
+71,Iberian Chain,ES
+72,Cantabrian Sea,ES
+73,Mediterranean,ES
+74,Ebro Basin,ES
+75,Duero Basin,ES
+76,Guadalquivir Basin,ES
+77,Tajo-Madrid Basin,ES
+78,Cantabrian Chain,ES
+79,Atlantic,ES
+80,Pyrenees,ES
+81,Bethic Chain,ES
+82,Offshore Latvia,LV
+83,Onshore western-central Latvia,LV
+84,Estonia,EE
+85,Lithuania,LT
+86,Netherlands onshore,NL
+87,Netherlands offshore,NL
+88,Swiss Plateau,CH
+89,Onshore Republic of Ireland,IE
+90,Irish Sea,IE
+91,Celtic Sea,IE
+92,Western Shelf,IE
+93,Porto Basin/Offshore,PT
+94,Lusitanian Basin/Onshore,PT
+95,Lusitanian Basin/Offshore,PT
+96,Algarve Basin/Offshore,PT
+97,Pelagonia Region,MK
+98,Skopje-Kumanovo Region,MK
+99,Ovche Pole Region,MK
+100,Tikvesh region,MK
+101,Eastern Macedonia,GR
+102,Central Macedonia,GR
+103,NW Peloponnese,GR
+104,Western Macedonia,GR
+105,Wallonia,BE
+106,Flanders,BE
+107,Pannonian region,HR
+108,Mountain region,HR
+109,Adriatic region,HR
+110,Skagerrak-Kattegat Platform,DK
+111,Sorgenfrei-Tornquest Zone,DK
+112,Danish Basin,DK
+113,Ringkøbing-Fyn High,DK
+114,Rønne Graben,DK
+115,East North Sea High,DK
+116,Horn Graben,DK
+117,Danish Central Graben,DK
+118,North-eastern Bulgaria,BG
+119,Central northern Bulgaria,BG
+120,South-eastern Bulgaria,BG
+121,Central southern Bulgaria,BG
+122,Norwegian North Sea,NO
+123,Netherlands onshore/offshore,NL

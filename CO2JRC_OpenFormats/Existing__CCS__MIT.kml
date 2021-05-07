@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Existing__CCS__MIT" id="Existing__CCS__MIT">
+	<SimpleField name="OID_" type="int"></SimpleField>
+	<SimpleField name="PopupInfo" type="string"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+</Schema>
+<Folder><name>Existing__CCS__MIT</name>
+  <Placemark>
+	<name>Green Hydrogen</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Zuid-Holland, The Netherlands &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Air Liquide &lt;BR&gt;&lt;b&gt; CO2 source:&lt;/b&gt; Industrial Seperation &lt;BR&gt;&lt;b&gt;Size: 0.55 Mt/yr &lt;/b&gt;  &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; Cancelled &lt;BR&gt;  &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/</SimpleData>
+		<SimpleData name="X">4.49378618300</SimpleData>
+		<SimpleData name="Y">52.02079408600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.49378618300005,52.0207940860001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belchatow</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Belchatow, Poland &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; PGE Elektrownia and Alstom &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 250 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Status: &lt;/b&gt; Cancelled &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in</SimpleData>
+		<SimpleData name="X">19.32200300000</SimpleData>
+		<SimpleData name="Y">51.27027400000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.322003,51.270274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ferrybridge</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; UK &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Scottish and Southern Energy &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 500 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2015 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in Saline Aquife</SimpleData>
+		<SimpleData name="X">-1.28136334600</SimpleData>
+		<SimpleData name="Y">53.71784779900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.28136334599998,53.717847799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longannet</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt;Fife, Scotland, UK &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt;Scottish Power &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 300 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; Cancelled &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt;EOR &lt;P&gt; &lt;a href=&quot;http://s</SimpleData>
+		<SimpleData name="X">-3.68660867700</SimpleData>
+		<SimpleData name="Y">56.05155779400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68660867699998,56.0515577940001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Getica</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Poland &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Turceni Energy Company, Transgaz, Romgaz &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 330 MW &lt;BR&gt;  &lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2015 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestratio</SimpleData>
+		<SimpleData name="X">23.40777799700</SimpleData>
+		<SimpleData name="Y">44.66972200200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.407777997,44.6697220020001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Janschwalde</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Germany &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Vattenfall &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 250 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Oxyfuel Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2015 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in Saline Aquifers  &lt;P&gt; &lt;</SimpleData>
+		<SimpleData name="X">14.45884650000</SimpleData>
+		<SimpleData name="Y">51.83481610300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4588465,51.834816103,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maasvlkte</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Rotterdam, Netherlands &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; E.On, Electrabel and Alstom &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 1100 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2015 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt;EGR &lt;P&gt; &lt;a</SimpleData>
+		<SimpleData name="X">4.02843251700</SimpleData>
+		<SimpleData name="Y">51.94936431700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.02843251700006,51.9493643170001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Tolle</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Porto tolle, Italy &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Enel&lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 660 MW &lt;BR &gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; On Hold &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in Saline Aquifers &lt;</SimpleData>
+		<SimpleData name="X">12.32185200000</SimpleData>
+		<SimpleData name="Y">44.95014600000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.321852,44.950146,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compstilla</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt;El Bierzo, Spain &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; ENDESA and CIUDEN &lt;BR&gt;&lt;b&gt;Capture: &lt;/b&gt; Oxy-Fuel &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 323 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; OxyFuel Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2015 &lt;BR&gt; &lt;b&gt; CO2 Fate:</SimpleData>
+		<SimpleData name="X">-6.59814563400</SimpleData>
+		<SimpleData name="Y">42.56381047400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.59814563399993,42.563810474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Don Valley Project</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; S.Yorkshire, England &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; 2CO &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 900 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Pre Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2015 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; EOR  &lt;P&gt; &lt;a href=&quot;http://sequestratio</SimpleData>
+		<SimpleData name="X">-1.02464200000</SimpleData>
+		<SimpleData name="Y">53.58890400000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.024642,53.588904,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Goldenbergwerk</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Cologne, Germany &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; RWE &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 450 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Pre Combustion &lt;BR&gt; &lt;b&gt;  Status: &lt;/b&gt; On Hold &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in Saline Aquifers &lt;P&gt; &lt;a hr</SimpleData>
+		<SimpleData name="X">6.86811100000</SimpleData>
+		<SimpleData name="Y">50.87096100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.868111,50.870961,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nuon Magnum</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Netherlands &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Nuon &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Various (Coal/ Gas/ Biomass &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 1200 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; Pre Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2020 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; EOR/EGR &lt;P&gt; &lt;a href=&quot;h</SimpleData>
+		<SimpleData name="X">6.88172836300</SimpleData>
+		<SimpleData name="Y">53.43588857200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.88172836300004,53.4358885720001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mongstad</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Mongstad, Norway &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Statoil &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Natural Gas &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 350 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; Waiting Funding &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in Sa</SimpleData>
+		<SimpleData name="X">5.03646100000</SimpleData>
+		<SimpleData name="Y">60.80441000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.036461,60.80441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schwarze Pumpe</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Germany &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Vattenfalll &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 30 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Oxyfuel Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2008 &lt;BR&gt;  &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/</SimpleData>
+		<SimpleData name="X">14.35278261100</SimpleData>
+		<SimpleData name="Y">51.53601067300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3527826110001,51.5360106730001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brindisi</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Brindisi Italy &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Enel and Eni &lt;BR&gt;&lt;b&gt;Capture: &lt;/b&gt; Post combustion &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt;48 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2011 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b</SimpleData>
+		<SimpleData name="X">17.99881579100</SimpleData>
+		<SimpleData name="Y">40.62957236500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.998815791,40.6295723650001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Total Lacq</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; France &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Total &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Feedstock &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 35 &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Oxyfuel Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2010 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt;Depleated Gas Reservoir&lt;P&gt; &lt;a href=&quot;http://se</SimpleData>
+		<SimpleData name="X">-0.61600000000</SimpleData>
+		<SimpleData name="Y">43.41230000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.616,43.4123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buggenum</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Buggenum, Netherlands &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Vattenfall &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt;Coal and Biomass &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 20 MW &lt;BR&gt; &lt;b&gt; Start date: &lt;/b&gt; 2008 &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/buggenum.html&quot;&gt; go to Fact Sheet&lt;/a&gt;</SimpleData>
+		<SimpleData name="X">5.97141315700</SimpleData>
+		<SimpleData name="Y">51.22170673800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.97141315700003,51.2217067380001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karlshamn</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Sweden &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; E.ON and Alstom Power &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Oil &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 5 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2014 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt;Vented &lt;P&gt; &lt;a href=&quot;http://sequestra</SimpleData>
+		<SimpleData name="X">14.86416577300</SimpleData>
+		<SimpleData name="Y">56.16921943700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.864165773,56.169219437,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ZENG Risavika</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Norway &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; ZENG AS &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Natural Gas &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 50-70 MW &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt;  OxyFuel Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; Dormant &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Undecided &lt;P&gt; &lt;a href=&quot;http://</SimpleData>
+		<SimpleData name="X">5.59906041300</SimpleData>
+		<SimpleData name="Y">58.92321171800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.59906041300007,58.9232117180001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ferrybridge</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; UK &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Scottish and Southern Energy &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Coal &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 5 MW &lt;BR&gt;&lt;b&gt; Capture Technology: &lt;/b&gt; Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2012 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Depleted  &lt;P&gt; &lt;a href=&quot;http://se</SimpleData>
+		<SimpleData name="X">-1.28136334600</SimpleData>
+		<SimpleData name="Y">53.71784779900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.28136334599998,53.717847799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sleipner</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Norwegian North Sea &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Statoil Hydro &lt;BR&gt;&lt;b&gt; CO2 Source:&lt;/b&gt; Gas Processing &lt;BR&gt;&lt;b&gt; Size:&lt;/b&gt; 1 MT/ Yr &lt;BR&gt; &lt;b&gt; Start Date: &lt;/b&gt; 1996 &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/sleipner.html&quot;&gt; go to Fact She</SimpleData>
+		<SimpleData name="X">1.77277412600</SimpleData>
+		<SimpleData name="Y">60.28296790000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.77277412600006,60.2829679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>K12B</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Netherland North Sea &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Gaz de France &lt;BR&gt;&lt;b&gt; CO2 Source:&lt;/b&gt; Gas Processing &lt;BR&gt;&lt;b&gt; Size:&lt;/b&gt; 0.2 Mt/ Yr &lt;BR&gt; &lt;b&gt; Status &lt;/b&gt; unknown- presumed competed &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/k12b.html&quot;</SimpleData>
+		<SimpleData name="X">3.72130111900</SimpleData>
+		<SimpleData name="Y">52.60519385900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.72130111900003,52.6051938590001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ketzin</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Germany &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; GFZ &lt;BR&gt;&lt;b&gt; CO2 Source:&lt;/b&gt; Hydrogen Production &lt;BR&gt;&lt;b&gt; Size:&lt;/b&gt; 0.06 MT/ Yr &lt;BR&gt;&lt;b&gt;  Start date: &lt;/b&gt; 2008 &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Sequestration in Saline Aquifers  &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/t</SimpleData>
+		<SimpleData name="X">12.84207777800</SimpleData>
+		<SimpleData name="Y">52.47798611100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.842077778,52.4779861110001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Snohvit</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Offshore Norway &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; StatoilHydro &lt;BR&gt;&lt;b&gt; CO2 Source:&lt;/b&gt; LNG Processing &lt;BR&gt;&lt;b&gt; Size:&lt;/b&gt; 0.7 MT/ Yr &lt;BR&gt; &lt;b&gt; Start Date &lt;/b&gt; 2008 &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/snohvit.html&quot;&gt; go to Fact Sheet&lt;/a</SimpleData>
+		<SimpleData name="X">22.77367313500</SimpleData>
+		<SimpleData name="Y">70.97750556600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.773673135,70.977505566,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barendrecht</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Netherlands &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Shell &lt;BR&gt;&lt;b&gt; CO2 Source:&lt;/b&gt; Oil Refinery &lt;BR&gt;&lt;b&gt; Size:&lt;/b&gt; 0.4 MT/ Yr &lt;BR&gt;&lt;b&gt;  Status: &lt;/b&gt; Cancelled &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt;Depleted Gas Fields &lt;P&gt; &lt;a href=&quot;http://sequestration.mit.edu/tools/projects/ba</SimpleData>
+		<SimpleData name="X">4.56774255900</SimpleData>
+		<SimpleData name="Y">51.78086245200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.56774255900007,51.7808624520001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ULCOS Florange</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Lorraine France  &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Arcelor Mittal and ULCOS&lt;BR&gt;&lt;b&gt;CO2 Source:&lt;/b&gt; Steel Industry &lt;BR&gt;&lt;b&gt;Size: 0.7 to 1.2 Mt/yr&lt;/b&gt;  &lt;BR&gt; &lt;b&gt; Capture Technology: &lt;/b&gt;Post-Combustion Capture &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; 2016 &lt;BR&gt;  &lt;P&gt; &lt;a hr</SimpleData>
+		<SimpleData name="X">6.20809299400</SimpleData>
+		<SimpleData name="Y">48.87442299700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.20809299400003,48.8744229970001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karsto</name>
+	<ExtendedData><SchemaData schemaUrl="#Existing__CCS__MIT">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="PopupInfo">&lt;b&gt;Location:&lt;/b&gt; Rogaland, Norway &lt;BR&gt;&lt;b&gt;Leader:&lt;/b&gt; Naturkraft &lt;BR&gt;&lt;b&gt;Feedstock:&lt;/b&gt; Natural Gas &lt;BR&gt;&lt;b&gt;Size:&lt;/b&gt; 432 MW &lt;BR&gt;  &lt;b&gt; Capture Technology: &lt;/b&gt;  Post Combustion &lt;BR&gt; &lt;b&gt;  Start date: &lt;/b&gt; On Hold &lt;BR&gt; &lt;b&gt; CO2 Fate: &lt;/b&gt; Offshore storage in s</SimpleData>
+		<SimpleData name="X">6.01434301500</SimpleData>
+		<SimpleData name="Y">59.14895403800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.01434301500007,59.1489540380001,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

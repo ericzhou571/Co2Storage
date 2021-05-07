@@ -1,0 +1,163 @@
+OBJECTID,BASIN_NAME,COUNTRY,COUNTRY_CODE
+1,Bassin de Paris,France,FR
+2,Bassin d’Aquitaine,France,FR
+3,Bassin du Sud-Est,France,FR
+4,Massif armoricain,France,FR
+5,Massif Central,France,FR
+6,Pyrénées,France,FR
+7,Alpes–Jura,France,FR
+8,Ebro Basin,Spain,ES
+9,Duero Basin,Spain,ES
+10,Guadalquivir Basin,Spain,ES
+11,Tajo-Madrid Basin,Spain,ES
+12,Bethic Chain,Spain,ES
+13,Cantabrian Chain,Spain,ES
+14,Iberian Chain,Spain,ES
+15,Pyrenees,Spain,ES
+16,Baltic Cambrian Basin,Estonia,EE
+17,Vienna Basin,Czech Republic,CZ
+18,Vienna Basin,Slovakia,SK
+19,Žiar Basin,Slovakia,SK
+20,Turiec Basin,Slovakia,SK
+21,Central Carpathian Palaeogene basin,Slovakia,SK
+22,Orava basin,Slovakia,SK
+23,Danube Basin,Slovakia,SK
+24,Flysch basin,Slovakia,SK
+25,Carpathian Flysch Zone,Czech Republic,CZ
+26,Carpathian Foredeep,Czech Republic,CZ
+27,Baltic Cambrian Basin,Latvia,LV
+28,Baltic Cambrian Basin,Lithuania,LT
+29,Corse,France,FR
+30,Bohemian Late Palaezoic Basin,Czech Republic,CZ
+31,Faroe - Shetland Basin,United Kingdom,GB
+32,Northern and Central North Sea Basin,United Kingdom,GB
+33,Southern North Sea Basin (UK),United Kingdom,GB
+34,East Irish Sea Basin,United Kingdom,GB
+35,Trans Carpathian basin,Slovakia,SK
+36,South Slovakian basin,Slovakia,SK
+37,The Carpathian units,Romania,RO
+38,Pannonian Depression,Romania,RO
+39,Transylvanian Depression,Romania,RO
+40,Paleogene Flysch Zone,Romania,RO
+41,Diapyre Folds Zone,Romania,RO
+42,Getic Depression,Romania,RO
+43,Moldavian Platform,Romania,RO
+44,Scythian Platform,Romania,RO
+45,North Dobroudjan Promontory,Romania,RO
+46,Moesian Platform,Romania,RO
+47,Black Sea continental shelf,Romania,RO
+48,"Molasse Basin
+Vienna Basin
+Styrian Basin
+Intramountainuous Basins
+Northern Calcareous Alps
+Flysch- & Helvetic Nappes
+Pannonian Basin",Austria,AT
+49,Vienna Basin,Austria,AT
+50,Styrian Basin,Austria,AT
+51,Intramountainuous Basins,Austria,AT
+52,Northern Calcareous Alps,Austria,AT
+53,Flysch- & Helvetic Nappes,Austria,AT
+54,Pannonian Basin,Austria,AT
+55,Nyugat-kisalföldi,Hungary,HU
+56,Kelet-kisalföldi,Hungary,HU
+57,Zala-délbalatoni,Hungary,HU
+58,Somogy-Drávavölgyi,Hungary,HU
+59,Közép-dunai,Hungary,HU
+60,Kiskunsági,Hungary,HU
+61,Szegedi,Hungary,HU
+62,Északalföldi,Hungary,HU
+63,Nagykunsági,Hungary,HU
+64,Békési,Hungary,HU
+65,Hajdúsági,Hungary,HU
+66,Bihari,Hungary,HU
+67,Paleogén medence,Hungary,HU
+68,Campine basin,Belgium,BE
+69,Roer Valley Graben,Belgium,BE
+70,Mons basin,Belgium,BE
+71,Namur parautochtonous,Belgium,BE
+72,Dinantian synclinorium,Belgium,BE
+73,North German Basin,Germany,DE
+74,Thuringian Basin,Germany,DE
+75,Saar-Nahe Basin,Germany,DE
+76,Hessian Depression,Germany,DE
+77,Franconian Basin,Germany,DE
+78,Upper Rhine Graben,Germany,DE
+79,South German Molasse Basin,Germany,DE
+80,Adria foredeep,Italy,IT
+81,Bradanic foredeep,Italy,IT
+82,Macva,Serbia,RS
+83,Posavotamnava,Serbia,RS
+84,Velikomoravski,Serbia,RS
+85,Kolubara,Serbia,RS
+86,Kostolac,Serbia,RS
+87,Cacak-kraljevo,Serbia,RS
+88,Krusevac,Serbia,RS
+89,Zajecar-knjazevac,Serbia,RS
+90,Sokobanja,Serbia,RS
+91,Svrljig,Serbia,RS
+92,Pirot,Serbia,RS
+93,Aleksinac,Serbia,RS
+94,Toplica,Serbia,RS
+95,Leskovac,Serbia,RS
+96,Vranje-Bujanovac,Serbia,RS
+97,Metohija,Serbia,RS
+98,Kosovo,Serbia,RS
+99,Drenica,Serbia,RS
+100,Carpathian Mountains,Poland,PL
+101,Sudetes Mountains,Poland,PL
+102,Carpathian Foredeep,Poland,PL
+103,Upper Silesian Coal Basin,Poland,PL
+104,Marginal Trough,Poland,PL
+105,Szczecin-Łódź Trough,Poland,PL
+106,Pomeranian-Kuyawian Swell,Poland,PL
+107,Gorica - Vipava Basin,Slovenia,SI
+108,Gorenjska - Posavje Basin,Slovenia,SI
+109,Pannonian Basin,Slovenia,SI
+110,Cantabrian Sea,Spain,ES
+111,Atlantic,Spain,ES
+112,Mediterranean,Spain,ES
+113,North Alpine Molasse Basin,Switzerland,CH
+114,Clare Basin,Ireland,IE
+115,Northwest Carboniferous Basin,Ireland,IE
+116,Kish Bank Basin,Ireland,IE
+117,Central Irish Sea Basin,Ireland,IE
+118,North Celtic Sea Basin,Ireland,IE
+119,South Celtic Sea Basin,Ireland,IE
+120,Fastnet Basin,Ireland,IE
+121,Donegal Basin,Ireland,IE
+122,Erris Trough,Ireland,IE
+123,Slyne Trough,Ireland,IE
+124,Clare Basin,Ireland,IE
+125,Porcupine Basin,Ireland,IE
+126,Rockall Basin,Ireland,IE
+127,Porto Basin,Portugal,PT
+128,Lusitanian Basin,Portugal,PT
+129,Algarve Basin,Portugal,PT
+130,Ergelija basin,Macedonia,MK
+131,Veles basin,Macedonia,MK
+132,Sveti Nikole basin,Macedonia,MK
+133,Portland-Wight Basin,United Kingdom,GB
+134,Southern North Sea Basin,Netherlands,NL
+135,Thessaloniki Basin,Greece,GR
+136,Polish Basin,Poland,PL
+137,Prinos Basin,Greece,GR
+138,Mesohellenic Basin,Greece,GR
+139,West Katakolon Structure,Greece,GR
+140,Pannonian basin,Croatia,HR
+141,Dinarides – intramontane basins,Croatia,HR
+142,Adriatic basin,Croatia,HR
+143,Skagerrak-Kattegat Platform,Denmark,DK
+144,Sorgenfrei-Tornquest Zone,Denmark,DK
+145,Danish Basin,Denmark,DK
+146,Ringkøbing-Fyn High,Denmark,DK
+147,Rønne Graben,Denmark,DK
+148,East North Sea High,Denmark,DK
+149,Horn Graben,Denmark,DK
+150,Danish Central Graben,Denmark,DK
+151,Moesian basin,Bulgaria,BG
+152,Kamchia basin,Bulgaria,BG
+153,Eastern Srednogorie basin,Bulgaria,BG
+154,Upper Thracian basin,Bulgaria,BG
+155,Norwegian North Sea,Norway,NO
+156,Baltic Basin,Lithuania,LT

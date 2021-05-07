@@ -1,0 +1,6 @@
+OBJECTID,Capacity_method,Injection_rate_method,HC_Fields_Cap_Method
+1,From detailed site characterisation study,Estimate from permeability,EOR / EGR related
+2,Pore vol and compressibility,From detailed site characterisation study,Material balance
+3,Pore vol and compressibility limited by traps,From production data (applicable to HC fields),Replacement of URR
+4,Pore vol and storage eff coefficient,,Replacement of URR + drive factor
+5,Pore vol and storage eff coefficient limited by trap vol,,

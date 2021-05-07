@@ -1,0 +1,5 @@
+OBJECTID,Fault_extent
+1,"Faults present, displacement greater than thickness of the seal"
+2,"Faults present, displacement is less than thickness of the seal"
+3,No faults cut the entire primary seal
+4,Not known

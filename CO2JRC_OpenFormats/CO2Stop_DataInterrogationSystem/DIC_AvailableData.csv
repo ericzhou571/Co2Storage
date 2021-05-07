@@ -1,0 +1,5 @@
+OBJECTID,Seismic,Wells,Models_Unit,Research,Order_
+1,None,None,None,None,1
+2,2D,Nearby wells through relevant formations,Regional 2D geological model,High level regional screening,2
+3,2D plus 3D in areas,Wells through unit with logs,Regional 2D model with mapped faults,Detailed site characterisation study,3
+4,Full 3D coverage,Wells through unit with logs and cores,Detailed 3D geological model,,4
