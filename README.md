@@ -20,8 +20,9 @@ Data Source(CO2Stop) and its data structure
 ==========
 Abstract data structure 
 
-Documentation of [CO2Stop](https://ec.europa.eu/energy/sites/default/files/documents/56-2014%20Final%20report.pdf) 
-CO2Stop dataset: [Download link](https://setis.ec.europa.eu/european-co2-storage-database_en)
+[Documentation of CO2Stop](https://ec.europa.eu/energy/sites/default/files/documents/56-2014%20Final%20report.pdf) 
+
+[CO2Stop dataset download link](https://setis.ec.europa.eu/european-co2-storage-database_en)
 
 ![structure](https://raw.githubusercontent.com/ericzhou571/Co2Storage/main/powerpoint/CO2Storage/Folie3.png)
 ![structure2](https://raw.githubusercontent.com/ericzhou571/Co2Storage/main/powerpoint/CO2Storage/Folie4.png)
