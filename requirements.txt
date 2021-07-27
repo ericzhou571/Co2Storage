@@ -1,7 +1,0 @@
-pandas
-scikit-learn
-geopandas
-geoplot
-fiona
-pandas_bokeh
-tqdm

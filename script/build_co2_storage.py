@@ -176,9 +176,9 @@ if __name__ == "__main__":
         #---------------------------#
 
         # logging configuration
-        logging.basicConfig(filename="../logs/build_hydrogen_storage.log", level=logging.INFO)
-        logging.info('test enviroment, not using snakemake')
-        logging.info('start assgining hydrogen capacity potential to buses')
+        #logging.basicConfig(filename="../logs/build_hydrogen_storage.log", level=logging.INFO)
+        #logging.info('test enviroment, not using snakemake')
+        #logging.info('start assgining hydrogen capacity potential to buses')
 
         # snakemake input
         onshore_path = "../resources/country_shapes.geojson"
@@ -186,7 +186,7 @@ if __name__ == "__main__":
         network_input_path = "../networks/elec_s_256.nc"
         network_output_path = "../networks/with_hydrogen_stoage_elec_s_256.nc"
         path2resources = "../resources"
-        capacity_map_path = "../resources/new_energy_capacity_map_kwhm2.geojson"
+        capacity_map_path = "../resources/complete_map_2020_unit_Mt.geojson"
 
         # config yaml
         considered_locations = ['onshore','nearshore','offshore']
@@ -214,7 +214,7 @@ if __name__ == "__main__":
     number_of_buses = network_input_path.split('/')[-1].split('.')[0]
 
     #load density map
-    capacity_shape = gpd.read_file(new_capacity_per_area_path)
+    #capacity_shape = gpd.read_file(new_capacity_per_area_path)
 
     # load target network
     network = Network()

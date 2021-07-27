@@ -5,6 +5,13 @@ from shapely.ops import unary_union
 from shapely.geometry import *
 
 def remove_third_dimension(geom):
+    '''
+    Input:
+        geom -> 3d shapely geometry object (e.g. 3d polygons)
+
+    Output:
+        new_geoms -> 2d shapely geometry object (e.g. polygons)
+    '''
     if geom.is_empty:
         return geom
 
